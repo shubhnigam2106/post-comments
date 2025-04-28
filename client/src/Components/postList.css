@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.displayPost {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+  margin: 8px;
+  width: 350px;
+  height: 350px;
+  align-items: center;
+}
